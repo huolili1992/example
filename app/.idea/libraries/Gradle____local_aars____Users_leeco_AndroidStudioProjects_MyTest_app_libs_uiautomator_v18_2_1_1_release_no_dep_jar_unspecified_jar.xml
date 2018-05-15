@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:/Users/leeco/AndroidStudioProjects/MyTest/app/libs/uiautomator-v18-2.1.1-release-no-dep.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/uiautomator-v18-2.1.1-release-no-dep.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
